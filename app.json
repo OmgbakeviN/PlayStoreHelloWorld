@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Hello World Masterclass",
+    "slug": "playstore-hello-world",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.mboa.classnotesdemo",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#173D9D"
+      }
+    },
+    "description": "A minimal Hello World React Native app for a Google Play publishing workshop.",
+    "extra": {
+      "eas": {
+        "projectId": "0919f8d4-f0b0-405e-a781-b674aa731d70"
+      }
+    }
+  }
+}

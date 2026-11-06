@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+android/
+ios/
+*.keystore
+*.jks
+*.aab
+credentials.json
+.env
+.env.*
+npm-debug.log*
